@@ -1,7 +1,7 @@
 # Threejs-Playground
 
 A Three.js Scene created using threejs(3d animations), cannon.js(physics world), dat.gui(visual representation).
-Scene contains Loaded animated models, spheres, cubes and custom background scene.
+Scene contains Loaded animated models, spheres, cubes and a custom background scene.
 Experimentation playground to explore Three.js Javascript library and its application.
 
 Steps to use Threejs-Playground
